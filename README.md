@@ -1,15 +1,12 @@
-# gratificacion_instantanea
+# INSTAGRAM CLONE
 
-A new Flutter project.
+Este es un proyecto Flutter que imita las funciones de la red social Instagram de Meta. El informe ´revio se entragra por el ClassRoom.
 
-## Getting Started
+## Capturas
 
-This project is a starting point for a Flutter application.
+Login:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/login.png)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
