@@ -4,11 +4,11 @@ Este es un proyecto Flutter que imita las funciones de la red social Instagram d
 
 ## Capturas
 
-Login:
+### Login:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/login.png)
 
-Home:
+### Home:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/home.png)
 
@@ -16,19 +16,19 @@ Home:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/home3.png)
 
-Buscar:
+### Buscar:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/buscar.png)
 
-Publicar:
+### Publicar:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/postear.png)
 
-Me Gusta:
+### Me Gusta:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/megusta.png)
 
-Perfil:
+### Perfil:
 
 ![value samples - dark](https://raw.githubusercontent.com/Jeanstevesanchez/proyecto-final/main/screens/perfil.png)
 
